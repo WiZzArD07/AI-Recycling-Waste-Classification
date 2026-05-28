@@ -192,6 +192,18 @@ streamlit run frontend.py
 
 ---
 
+# 📸 Application Screenshots
+
+## 🏠 Homepage
+
+<img width="100%" src="screenshots/Screenshot (124).png">
+
+## 🤖 Prediction Result
+
+<img width="100%" src="screenshots/Screenshot (125).png">
+
+---
+
 # 🔍 Prediction Workflow
 
 ```text
